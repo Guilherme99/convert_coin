@@ -30,7 +30,7 @@ Para instalar o projeto, siga estas etapas:
 
 ### Clone o repositório:
 ```
-  git clone https://github.com/Guilherme99/Comp_webGl.git
+  git clone https://github.com/Guilherme99/convert_coin.git
 ```
 
 ### Navegue até a pasta, e instale as dependências:
